@@ -7,7 +7,7 @@ NOME_aluno varchar(50),
 telefone_aluno varchar(50),
 )
  create table professor(
-ra_professor int primary key,
+rm_professor int primary key,
 nome_professor varchar(50),
 telefone_professor varchar(50),
 )
